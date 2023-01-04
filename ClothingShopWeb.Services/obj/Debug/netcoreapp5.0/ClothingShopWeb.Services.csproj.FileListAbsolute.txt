@@ -1,0 +1,15 @@
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\bin\Debug\netcoreapp5.0\ClothingShopWeb.Services.deps.json
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\bin\Debug\netcoreapp5.0\ClothingShopWeb.Services.dll
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\bin\Debug\netcoreapp5.0\ClothingShopWeb.Services.pdb
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\bin\Debug\netcoreapp5.0\ClothingShopWeb.Data.dll
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\bin\Debug\netcoreapp5.0\ClothingShopWeb.Data.pdb
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\ClothingShopWeb.Services.csproj.AssemblyReference.cache
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\ClothingShopWeb.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\ClothingShopWeb.Services.AssemblyInfoInputs.cache
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\ClothingShopWeb.Services.AssemblyInfo.cs
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\ClothingShopWeb.Services.csproj.CoreCompileInputs.cache
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\ClothingShopWeb.Services.csproj.CopyComplete
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\ClothingShopWeb.Services.dll
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\refint\ClothingShopWeb.Services.dll
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\ClothingShopWeb.Services.pdb
+D:\Learning\ASP.NET Core MVC\ClothingShopWeb.Services\obj\Debug\netcoreapp5.0\ref\ClothingShopWeb.Services.dll
